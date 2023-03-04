@@ -2,7 +2,7 @@
 This is a simple Encoder project based on 3 line!
 You can use it with two way :
 ```
-    python EC.py DdireoehstigcTSn   
+    python EC.py DecodeThisString   
 ```
 or :
 ```
