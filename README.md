@@ -12,4 +12,4 @@ and then input your string.
 
 #### You can find this algorithm [Decoder in Here.](https://github.com/DarkSideOfADeveloper/Three_Line_Decoder)
 
-### Developed by OD
+### Developed by DOD
